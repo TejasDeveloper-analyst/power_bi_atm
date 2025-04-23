@@ -1,7 +1,6 @@
 # 🏦 ATM Dashboard - Power BI
 
-🔗 [View Live Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiMTUzNzRmZjktOTNlZS00YTFhLWI4OGEtMjdiZjhlMWQwNGMyIiwidCI6IjUwMTcxNjkxLTExNDItNDFjMi1hNzZjLWM2MDljZDExMmYzZiJ9)
-
+🔗 [View Live Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiZjgxMGEyNWMtNDRiNC00YWFlLTkxMjEtMzA5Yzg1NjkyN2E0IiwidCI6IjUwMTcxNjkxLTExNDItNDFjMi1hNzZjLWM2MDljZDExMmYzZiJ9)
 Welcome to the **ATM Dashboard** project!  
 This dashboard provides a detailed overview and analysis of ATM transactions, costs, revenue, and performance across different states using **Power BI**.
 
